@@ -83,7 +83,7 @@ nav ul li a:hover {
   }
 }
 main {
-  background: url(./images/woman-asian-happy-smiling-while-her-using-laptop-sitting-white-chair-looking-copy-space.jpg);
+  background: url("./images/woman-asian-happy-smiling-while-her-using-laptop-sitting-white-chair-looking-copy-space.jpg");
   background-repeat: no-repeat;
   background-size: 100vw auto;
   width: 100%;

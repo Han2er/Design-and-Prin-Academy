@@ -89,11 +89,6 @@ nav {
 $breakpoint-mobile: 768px;
 
 @media (max-width: $breakpoint-mobile) {
-
-  // header{
-  //   flex-direction: column;
-  //   height: auto;
-  // }
   nav {
     display: none;
 
@@ -108,5 +103,17 @@ $breakpoint-mobile: 768px;
 
   .burger-menu {
     display: block;
+  }
+}
+
+main {
+  // background: url(./images/woman-asian-happy-smiling-while-her-using-laptop-sitting-white-chair-looking-copy-space.jpg);
+  // background-repeat: no-repeat;
+  // background-size: 100vw auto;
+  // width: 100%;
+  // height: 100vh;
+
+  img {
+    width: 100vw;
   }
 }

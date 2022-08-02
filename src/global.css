@@ -82,5 +82,8 @@ nav ul li a:hover {
     display: block;
   }
 }
+main img {
+  width: 100vw;
+}
 
 /*# sourceMappingURL=global.css.map */

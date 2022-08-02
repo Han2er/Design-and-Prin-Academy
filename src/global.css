@@ -82,7 +82,10 @@ nav ul li a:hover {
     display: block;
   }
 }
-main img {
+main .test {
+  width: fit-content;
+}
+main .test img {
   width: 100vw;
 }
 
